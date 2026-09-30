@@ -1,12 +1,1 @@
-# Submission checklist
-- [x] validation_predictions.csv
-- [x] outputs/december_chart_inputs.csv
-- [x] scorer_results/candidate_december.png
-- [x] report/Spotter_ML_Assessment_Report.docx
-- [x] train_model.py
-- [x] requirements.txt
-- [x] README.md
-- [x] score.py
-- [ ] Push to GitHub
-- [ ] Record 2–3 minute Loom
-- [ ] Submit final links/files
+

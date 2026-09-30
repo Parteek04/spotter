@@ -34,7 +34,10 @@ For each freight load, the goal is to estimate its expected `posted_rate` using 
 - Quote signal
 - Date
 
-The final model is used to predict rates for the 12,000 unseen loads in:
+The final model is used to predict rates for all 12,000 unseen loads in:
 
-```text
-validation.csv
+`validation.csv`
+
+The predictions are saved in:
+
+`validation_predictions.csv`
